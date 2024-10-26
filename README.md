@@ -1,2 +1,2 @@
-Just my personal website :)
+Just my old personal website :)
 https://vzliu.github.io/vivianliu/
